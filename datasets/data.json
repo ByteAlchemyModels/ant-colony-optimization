@@ -1,0 +1,1 @@
+{"New York": {"base_price": 150, "base_volume": 50}, "Los Angeles": {"base_price": 125, "base_volume": 40}, "Chicago": {"base_price": 110, "base_volume": 35}, "Houston": {"base_price": 105, "base_volume": 30}, "Phoenix": {"base_price": 100, "base_volume": 30}}
