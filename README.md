@@ -2,6 +2,10 @@
 
 Ant Colony Optimization (ACO) is a probabilistic technique used to solve computational problems that can be reduced to finding optimal paths through graphs. It's a member of the swarm intelligence family of algorithms and is inspired by the foraging behavior of real ants.
 
+ACO Python File: `ant_colony_optimization.py`
+- `acotw.py` has time-window logic but not incorporated into `ant_colony_optimization.py`
+- Genetic Algorithm needs work and ACO performed better
+
 ## How Ant Colony Optimization Works
 
 The core idea of ACO is modeled on how ants find the shortest path between their colony and a food source.
